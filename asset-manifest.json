@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/learn-react-movie-service/static/js/main.1b32e4d6.chunk.js",
+    "main.js.map": "/learn-react-movie-service/static/js/main.1b32e4d6.chunk.js.map",
+    "runtime~main.js": "/learn-react-movie-service/static/js/runtime~main.335ee510.js",
+    "runtime~main.js.map": "/learn-react-movie-service/static/js/runtime~main.335ee510.js.map",
+    "static/js/2.c1344929.chunk.js": "/learn-react-movie-service/static/js/2.c1344929.chunk.js",
+    "static/js/2.c1344929.chunk.js.map": "/learn-react-movie-service/static/js/2.c1344929.chunk.js.map",
+    "index.html": "/learn-react-movie-service/index.html",
+    "precache-manifest.773445fc5a9bef53654cce51b0b0f88b.js": "/learn-react-movie-service/precache-manifest.773445fc5a9bef53654cce51b0b0f88b.js",
+    "service-worker.js": "/learn-react-movie-service/service-worker.js"
+  }
+}
